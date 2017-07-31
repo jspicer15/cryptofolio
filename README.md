@@ -1,2 +1,2 @@
-# cryptofolio
+# CryptoFolio
 Portfolio for Crypto
